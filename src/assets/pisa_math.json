@@ -1,0 +1,4202 @@
+[
+  {
+    "Jurisdiction": "Albania",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 368.22
+      },
+      {
+        "Year": 2018,
+        "Average": 437.22
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": 394.33
+      },
+      {
+        "Year": 2012,
+        "Average": 377.46
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Albania (2015)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 413.16
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Algeria",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 359.61
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Argentina",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 377.53
+      },
+      {
+        "Year": 2018,
+        "Average": 379.45
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": 388.43
+      },
+      {
+        "Year": 2012,
+        "Average": 388.07
+      },
+      {
+        "Year": 2006,
+        "Average": 381.25
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Argentina (2015)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 409.03
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Argentina: Cordoba",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 393.84
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Argentina: Mendoza",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 378.13
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Australia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 487.08
+      },
+      {
+        "Year": 2018,
+        "Average": 491.36
+      },
+      {
+        "Year": 2015,
+        "Average": 493.9
+      },
+      {
+        "Year": 2012,
+        "Average": 504.15
+      },
+      {
+        "Year": 2012,
+        "Average": 514.34
+      },
+      {
+        "Year": 2006,
+        "Average": 519.91
+      },
+      {
+        "Year": 2003,
+        "Average": 524.27
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Austria",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 487.27
+      },
+      {
+        "Year": 2018,
+        "Average": 498.94
+      },
+      {
+        "Year": 2015,
+        "Average": 496.74
+      },
+      {
+        "Year": 2012,
+        "Average": 505.54
+      },
+      {
+        "Year": 2012,
+        "Average": 495.91
+      },
+      {
+        "Year": 2006,
+        "Average": 505.48
+      },
+      {
+        "Year": 2003,
+        "Average": 505.61
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "B-S-J-G (China)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 531.3
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "B-S-J-Z (China)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 591.39
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Baku (Azerbaijan)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 396.88
+      },
+      {
+        "Year": 2018,
+        "Average": 419.64
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Belarus",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 471.87
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Belgium",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 489.49
+      },
+      {
+        "Year": 2018,
+        "Average": 508.07
+      },
+      {
+        "Year": 2015,
+        "Average": 506.98
+      },
+      {
+        "Year": 2012,
+        "Average": 514.53
+      },
+      {
+        "Year": 2012,
+        "Average": 515.27
+      },
+      {
+        "Year": 2006,
+        "Average": 520.35
+      },
+      {
+        "Year": 2003,
+        "Average": 529.29
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Belgium: Flemish community",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 501.36
+      },
+      {
+        "Year": 2018,
+        "Average": 517.89
+      },
+      {
+        "Year": 2015,
+        "Average": 521.48
+      },
+      {
+        "Year": 2012,
+        "Average": 530.87
+      },
+      {
+        "Year": 2012,
+        "Average": 536.72
+      },
+      {
+        "Year": 2006,
+        "Average": 543.44
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Bosnia and Herzegovina",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 406.38
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Brazil",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 378.69
+      },
+      {
+        "Year": 2018,
+        "Average": 383.57
+      },
+      {
+        "Year": 2015,
+        "Average": 377.07
+      },
+      {
+        "Year": 2012,
+        "Average": 388.51
+      },
+      {
+        "Year": 2012,
+        "Average": 385.81
+      },
+      {
+        "Year": 2006,
+        "Average": 369.52
+      },
+      {
+        "Year": 2003,
+        "Average": 356.02
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Brunei Darussalam",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 442.09
+      },
+      {
+        "Year": 2018,
+        "Average": 430.11
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Bulgaria",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 417.3
+      },
+      {
+        "Year": 2018,
+        "Average": 436.04
+      },
+      {
+        "Year": 2015,
+        "Average": 441.19
+      },
+      {
+        "Year": 2012,
+        "Average": 438.74
+      },
+      {
+        "Year": 2012,
+        "Average": 428.07
+      },
+      {
+        "Year": 2006,
+        "Average": 413.45
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "CABA (Argentina)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 423.5
+      },
+      {
+        "Year": 2018,
+        "Average": 434.44
+      },
+      {
+        "Year": 2015,
+        "Average": 456.3
+      },
+      {
+        "Year": 2012,
+        "Average": 417.96
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Cambodia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 336.4
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Canada",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 496.95
+      },
+      {
+        "Year": 2018,
+        "Average": 512.02
+      },
+      {
+        "Year": 2015,
+        "Average": 515.65
+      },
+      {
+        "Year": 2012,
+        "Average": 518.07
+      },
+      {
+        "Year": 2012,
+        "Average": 526.81
+      },
+      {
+        "Year": 2006,
+        "Average": 527.01
+      },
+      {
+        "Year": 2003,
+        "Average": 532.49
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Chile",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 411.7
+      },
+      {
+        "Year": 2018,
+        "Average": 417.41
+      },
+      {
+        "Year": 2015,
+        "Average": 422.67
+      },
+      {
+        "Year": 2012,
+        "Average": 422.63
+      },
+      {
+        "Year": 2012,
+        "Average": 421.06
+      },
+      {
+        "Year": 2006,
+        "Average": 411.35
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Chinese Taipei",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 547.09
+      },
+      {
+        "Year": 2018,
+        "Average": 531.14
+      },
+      {
+        "Year": 2015,
+        "Average": 542.32
+      },
+      {
+        "Year": 2012,
+        "Average": 559.82
+      },
+      {
+        "Year": 2012,
+        "Average": 543.18
+      },
+      {
+        "Year": 2006,
+        "Average": 549.36
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Colombia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 382.7
+      },
+      {
+        "Year": 2018,
+        "Average": 390.93
+      },
+      {
+        "Year": 2015,
+        "Average": 389.64
+      },
+      {
+        "Year": 2012,
+        "Average": 376.49
+      },
+      {
+        "Year": 2012,
+        "Average": 380.85
+      },
+      {
+        "Year": 2006,
+        "Average": 369.98
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Costa Rica",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 384.58
+      },
+      {
+        "Year": 2018,
+        "Average": 402.33
+      },
+      {
+        "Year": 2015,
+        "Average": 400.25
+      },
+      {
+        "Year": 2012,
+        "Average": 407.0
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Croatia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 463.11
+      },
+      {
+        "Year": 2018,
+        "Average": 464.2
+      },
+      {
+        "Year": 2015,
+        "Average": 464.04
+      },
+      {
+        "Year": 2012,
+        "Average": 471.13
+      },
+      {
+        "Year": 2012,
+        "Average": 459.94
+      },
+      {
+        "Year": 2006,
+        "Average": 467.25
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Cyprus",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 418.31
+      },
+      {
+        "Year": 2018,
+        "Average": 450.68
+      },
+      {
+        "Year": 2015,
+        "Average": 437.13
+      },
+      {
+        "Year": 2012,
+        "Average": 439.7
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Czech Republic",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 487.0
+      },
+      {
+        "Year": 2018,
+        "Average": 499.47
+      },
+      {
+        "Year": 2015,
+        "Average": 492.33
+      },
+      {
+        "Year": 2012,
+        "Average": 498.96
+      },
+      {
+        "Year": 2012,
+        "Average": 492.81
+      },
+      {
+        "Year": 2006,
+        "Average": 509.86
+      },
+      {
+        "Year": 2003,
+        "Average": 516.46
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Denmark",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 489.27
+      },
+      {
+        "Year": 2018,
+        "Average": 509.4
+      },
+      {
+        "Year": 2015,
+        "Average": 511.09
+      },
+      {
+        "Year": 2012,
+        "Average": 500.03
+      },
+      {
+        "Year": 2012,
+        "Average": 503.28
+      },
+      {
+        "Year": 2006,
+        "Average": 513.03
+      },
+      {
+        "Year": 2003,
+        "Average": 514.29
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Dominican Republic",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 339.11
+      },
+      {
+        "Year": 2018,
+        "Average": 325.1
+      },
+      {
+        "Year": 2015,
+        "Average": 327.7
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "El Salvador",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 343.47
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Estonia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 509.95
+      },
+      {
+        "Year": 2018,
+        "Average": 523.41
+      },
+      {
+        "Year": 2015,
+        "Average": 519.53
+      },
+      {
+        "Year": 2012,
+        "Average": 520.55
+      },
+      {
+        "Year": 2012,
+        "Average": 512.1
+      },
+      {
+        "Year": 2006,
+        "Average": 514.58
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Finland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 484.14
+      },
+      {
+        "Year": 2018,
+        "Average": 507.3
+      },
+      {
+        "Year": 2015,
+        "Average": 511.08
+      },
+      {
+        "Year": 2012,
+        "Average": 518.75
+      },
+      {
+        "Year": 2012,
+        "Average": 540.5
+      },
+      {
+        "Year": 2006,
+        "Average": 548.36
+      },
+      {
+        "Year": 2003,
+        "Average": 544.29
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "France",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 473.94
+      },
+      {
+        "Year": 2018,
+        "Average": 495.41
+      },
+      {
+        "Year": 2015,
+        "Average": 492.92
+      },
+      {
+        "Year": 2012,
+        "Average": 494.98
+      },
+      {
+        "Year": 2012,
+        "Average": 496.78
+      },
+      {
+        "Year": 2006,
+        "Average": 495.54
+      },
+      {
+        "Year": 2003,
+        "Average": 510.8
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Georgia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 390.02
+      },
+      {
+        "Year": 2018,
+        "Average": 397.59
+      },
+      {
+        "Year": 2015,
+        "Average": 403.83
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Germany",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 474.83
+      },
+      {
+        "Year": 2018,
+        "Average": 500.04
+      },
+      {
+        "Year": 2015,
+        "Average": 505.97
+      },
+      {
+        "Year": 2012,
+        "Average": 513.53
+      },
+      {
+        "Year": 2012,
+        "Average": 512.78
+      },
+      {
+        "Year": 2006,
+        "Average": 503.79
+      },
+      {
+        "Year": 2003,
+        "Average": 502.99
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Greece",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 430.15
+      },
+      {
+        "Year": 2018,
+        "Average": 451.37
+      },
+      {
+        "Year": 2015,
+        "Average": 453.63
+      },
+      {
+        "Year": 2012,
+        "Average": 452.97
+      },
+      {
+        "Year": 2012,
+        "Average": 466.1
+      },
+      {
+        "Year": 2006,
+        "Average": 459.2
+      },
+      {
+        "Year": 2003,
+        "Average": 444.91
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Guatemala",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 344.2
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Hong Kong (China)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 540.35
+      },
+      {
+        "Year": 2018,
+        "Average": 551.15
+      },
+      {
+        "Year": 2015,
+        "Average": 547.93
+      },
+      {
+        "Year": 2012,
+        "Average": 561.24
+      },
+      {
+        "Year": 2012,
+        "Average": 554.53
+      },
+      {
+        "Year": 2006,
+        "Average": 547.46
+      },
+      {
+        "Year": 2003,
+        "Average": 550.38
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Hungary",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 472.78
+      },
+      {
+        "Year": 2018,
+        "Average": 481.08
+      },
+      {
+        "Year": 2015,
+        "Average": 476.83
+      },
+      {
+        "Year": 2012,
+        "Average": 477.04
+      },
+      {
+        "Year": 2012,
+        "Average": 490.17
+      },
+      {
+        "Year": 2006,
+        "Average": 490.94
+      },
+      {
+        "Year": 2003,
+        "Average": 490.01
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Iceland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 458.91
+      },
+      {
+        "Year": 2018,
+        "Average": 495.19
+      },
+      {
+        "Year": 2015,
+        "Average": 488.03
+      },
+      {
+        "Year": 2012,
+        "Average": 492.8
+      },
+      {
+        "Year": 2012,
+        "Average": 506.67
+      },
+      {
+        "Year": 2006,
+        "Average": 505.54
+      },
+      {
+        "Year": 2003,
+        "Average": 515.11
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Indonesia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 365.53
+      },
+      {
+        "Year": 2018,
+        "Average": 378.67
+      },
+      {
+        "Year": 2015,
+        "Average": 386.11
+      },
+      {
+        "Year": 2012,
+        "Average": 375.11
+      },
+      {
+        "Year": 2012,
+        "Average": 371.3
+      },
+      {
+        "Year": 2006,
+        "Average": 391.01
+      },
+      {
+        "Year": 2003,
+        "Average": 360.16
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "International Average (OECD)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 472.36
+      },
+      {
+        "Year": 2018,
+        "Average": 487.0
+      },
+      {
+        "Year": 2015,
+        "Average": 484.88
+      },
+      {
+        "Year": 2012,
+        "Average": 488.16
+      },
+      {
+        "Year": 2012,
+        "Average": 491.72
+      },
+      {
+        "Year": 2006,
+        "Average": 490.41
+      },
+      {
+        "Year": 2003,
+        "Average": 499.46
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Ireland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 491.65
+      },
+      {
+        "Year": 2018,
+        "Average": 499.63
+      },
+      {
+        "Year": 2015,
+        "Average": 503.72
+      },
+      {
+        "Year": 2012,
+        "Average": 501.5
+      },
+      {
+        "Year": 2012,
+        "Average": 487.14
+      },
+      {
+        "Year": 2006,
+        "Average": 501.47
+      },
+      {
+        "Year": 2003,
+        "Average": 502.84
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Israel",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 457.9
+      },
+      {
+        "Year": 2018,
+        "Average": 463.03
+      },
+      {
+        "Year": 2015,
+        "Average": 469.67
+      },
+      {
+        "Year": 2012,
+        "Average": 466.48
+      },
+      {
+        "Year": 2012,
+        "Average": 446.86
+      },
+      {
+        "Year": 2006,
+        "Average": 441.86
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Italy",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 471.26
+      },
+      {
+        "Year": 2018,
+        "Average": 486.59
+      },
+      {
+        "Year": 2015,
+        "Average": 489.73
+      },
+      {
+        "Year": 2012,
+        "Average": 485.32
+      },
+      {
+        "Year": 2012,
+        "Average": 482.91
+      },
+      {
+        "Year": 2006,
+        "Average": 461.69
+      },
+      {
+        "Year": 2003,
+        "Average": 465.66
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Jamaica",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 377.42
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Japan",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 535.58
+      },
+      {
+        "Year": 2018,
+        "Average": 526.97
+      },
+      {
+        "Year": 2015,
+        "Average": 532.44
+      },
+      {
+        "Year": 2012,
+        "Average": 536.41
+      },
+      {
+        "Year": 2012,
+        "Average": 528.99
+      },
+      {
+        "Year": 2006,
+        "Average": 523.1
+      },
+      {
+        "Year": 2003,
+        "Average": 534.14
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Jordan",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 361.23
+      },
+      {
+        "Year": 2018,
+        "Average": 399.76
+      },
+      {
+        "Year": 2015,
+        "Average": 380.26
+      },
+      {
+        "Year": 2012,
+        "Average": 385.6
+      },
+      {
+        "Year": 2012,
+        "Average": 386.66
+      },
+      {
+        "Year": 2006,
+        "Average": 384.04
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Kazakhstan",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 425.44
+      },
+      {
+        "Year": 2018,
+        "Average": 423.15
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": 431.8
+      },
+      {
+        "Year": 2012,
+        "Average": 404.88
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Kazakhstan (2015)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 459.82
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Korea",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 527.3
+      },
+      {
+        "Year": 2018,
+        "Average": 525.93
+      },
+      {
+        "Year": 2015,
+        "Average": 524.11
+      },
+      {
+        "Year": 2012,
+        "Average": 553.77
+      },
+      {
+        "Year": 2012,
+        "Average": 546.23
+      },
+      {
+        "Year": 2006,
+        "Average": 547.46
+      },
+      {
+        "Year": 2003,
+        "Average": 542.23
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Kosovo",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 354.96
+      },
+      {
+        "Year": 2018,
+        "Average": 365.88
+      },
+      {
+        "Year": 2015,
+        "Average": 361.53
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Latvia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 483.16
+      },
+      {
+        "Year": 2018,
+        "Average": 496.13
+      },
+      {
+        "Year": 2015,
+        "Average": 482.31
+      },
+      {
+        "Year": 2012,
+        "Average": 490.57
+      },
+      {
+        "Year": 2012,
+        "Average": 481.95
+      },
+      {
+        "Year": 2006,
+        "Average": 486.17
+      },
+      {
+        "Year": 2003,
+        "Average": 483.37
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Lebanon",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 393.45
+      },
+      {
+        "Year": 2015,
+        "Average": 396.25
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Lithuania",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 475.15
+      },
+      {
+        "Year": 2018,
+        "Average": 481.19
+      },
+      {
+        "Year": 2015,
+        "Average": 478.38
+      },
+      {
+        "Year": 2012,
+        "Average": 478.82
+      },
+      {
+        "Year": 2012,
+        "Average": 476.6
+      },
+      {
+        "Year": 2006,
+        "Average": 486.42
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Luxembourg",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 483.42
+      },
+      {
+        "Year": 2015,
+        "Average": 485.77
+      },
+      {
+        "Year": 2012,
+        "Average": 489.85
+      },
+      {
+        "Year": 2012,
+        "Average": 489.07
+      },
+      {
+        "Year": 2006,
+        "Average": 490.0
+      },
+      {
+        "Year": 2003,
+        "Average": 493.21
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Macao (China)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 551.92
+      },
+      {
+        "Year": 2018,
+        "Average": 557.67
+      },
+      {
+        "Year": 2015,
+        "Average": 543.81
+      },
+      {
+        "Year": 2012,
+        "Average": 538.13
+      },
+      {
+        "Year": 2012,
+        "Average": 525.28
+      },
+      {
+        "Year": 2006,
+        "Average": 525.0
+      },
+      {
+        "Year": 2003,
+        "Average": 527.27
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Malaysia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 408.69
+      },
+      {
+        "Year": 2018,
+        "Average": 440.21
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": 420.51
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Malaysia (2015)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 446.11
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Malta",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 466.02
+      },
+      {
+        "Year": 2018,
+        "Average": 471.72
+      },
+      {
+        "Year": 2015,
+        "Average": 478.64
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Mexico",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 395.03
+      },
+      {
+        "Year": 2018,
+        "Average": 408.8
+      },
+      {
+        "Year": 2015,
+        "Average": 408.02
+      },
+      {
+        "Year": 2012,
+        "Average": 413.28
+      },
+      {
+        "Year": 2012,
+        "Average": 418.51
+      },
+      {
+        "Year": 2006,
+        "Average": 405.65
+      },
+      {
+        "Year": 2003,
+        "Average": 385.22
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Moldova",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 414.2
+      },
+      {
+        "Year": 2018,
+        "Average": 420.6
+      },
+      {
+        "Year": 2015,
+        "Average": 419.66
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Mongolia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 424.59
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Montenegro",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 405.6
+      },
+      {
+        "Year": 2018,
+        "Average": 429.61
+      },
+      {
+        "Year": 2015,
+        "Average": 417.93
+      },
+      {
+        "Year": 2012,
+        "Average": 409.63
+      },
+      {
+        "Year": 2012,
+        "Average": 402.52
+      },
+      {
+        "Year": 2006,
+        "Average": 399.31
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Morocco",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 364.77
+      },
+      {
+        "Year": 2018,
+        "Average": 367.73
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Netherlands",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 492.68
+      },
+      {
+        "Year": 2018,
+        "Average": 519.23
+      },
+      {
+        "Year": 2015,
+        "Average": 512.25
+      },
+      {
+        "Year": 2012,
+        "Average": 522.97
+      },
+      {
+        "Year": 2012,
+        "Average": 525.84
+      },
+      {
+        "Year": 2006,
+        "Average": 530.65
+      },
+      {
+        "Year": 2003,
+        "Average": 537.82
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "New Zealand",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 479.07
+      },
+      {
+        "Year": 2018,
+        "Average": 494.49
+      },
+      {
+        "Year": 2015,
+        "Average": 495.22
+      },
+      {
+        "Year": 2012,
+        "Average": 499.75
+      },
+      {
+        "Year": 2012,
+        "Average": 519.3
+      },
+      {
+        "Year": 2006,
+        "Average": 521.99
+      },
+      {
+        "Year": 2003,
+        "Average": 523.49
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "North Macedonia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 388.58
+      },
+      {
+        "Year": 2018,
+        "Average": 394.45
+      },
+      {
+        "Year": 2015,
+        "Average": 371.31
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Norway",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 468.45
+      },
+      {
+        "Year": 2018,
+        "Average": 500.96
+      },
+      {
+        "Year": 2015,
+        "Average": 501.73
+      },
+      {
+        "Year": 2012,
+        "Average": 489.37
+      },
+      {
+        "Year": 2012,
+        "Average": 497.96
+      },
+      {
+        "Year": 2006,
+        "Average": 489.85
+      },
+      {
+        "Year": 2003,
+        "Average": 495.19
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Palestinian Authority",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 365.75
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Panama",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 356.57
+      },
+      {
+        "Year": 2018,
+        "Average": 352.85
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Paraguay",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 337.54
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Peru",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 391.24
+      },
+      {
+        "Year": 2018,
+        "Average": 399.84
+      },
+      {
+        "Year": 2015,
+        "Average": 386.56
+      },
+      {
+        "Year": 2012,
+        "Average": 368.1
+      },
+      {
+        "Year": 2012,
+        "Average": 365.11
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Philippines",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 354.72
+      },
+      {
+        "Year": 2018,
+        "Average": 352.57
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Poland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 488.96
+      },
+      {
+        "Year": 2018,
+        "Average": 515.65
+      },
+      {
+        "Year": 2015,
+        "Average": 504.47
+      },
+      {
+        "Year": 2012,
+        "Average": 517.5
+      },
+      {
+        "Year": 2012,
+        "Average": 494.8
+      },
+      {
+        "Year": 2006,
+        "Average": 495.43
+      },
+      {
+        "Year": 2003,
+        "Average": 490.24
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Portugal",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 471.91
+      },
+      {
+        "Year": 2018,
+        "Average": 492.49
+      },
+      {
+        "Year": 2015,
+        "Average": 491.63
+      },
+      {
+        "Year": 2012,
+        "Average": 487.06
+      },
+      {
+        "Year": 2012,
+        "Average": 486.89
+      },
+      {
+        "Year": 2006,
+        "Average": 466.16
+      },
+      {
+        "Year": 2003,
+        "Average": 466.02
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Qatar",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 414.11
+      },
+      {
+        "Year": 2018,
+        "Average": 414.23
+      },
+      {
+        "Year": 2015,
+        "Average": 402.4
+      },
+      {
+        "Year": 2012,
+        "Average": 376.45
+      },
+      {
+        "Year": 2012,
+        "Average": 368.11
+      },
+      {
+        "Year": 2006,
+        "Average": 317.96
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Romania",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 427.76
+      },
+      {
+        "Year": 2018,
+        "Average": 429.92
+      },
+      {
+        "Year": 2015,
+        "Average": 443.95
+      },
+      {
+        "Year": 2012,
+        "Average": 444.55
+      },
+      {
+        "Year": 2012,
+        "Average": 427.08
+      },
+      {
+        "Year": 2006,
+        "Average": 414.8
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Russia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 487.79
+      },
+      {
+        "Year": 2015,
+        "Average": 494.06
+      },
+      {
+        "Year": 2012,
+        "Average": 482.17
+      },
+      {
+        "Year": 2012,
+        "Average": 467.81
+      },
+      {
+        "Year": 2006,
+        "Average": 475.68
+      },
+      {
+        "Year": 2003,
+        "Average": 468.41
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Russian Federation: Moscow region",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 494.91
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Russian Federation: Republic of Tatarstan",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 475.39
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Saudi Arabia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 388.78
+      },
+      {
+        "Year": 2018,
+        "Average": 373.24
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Selected countries and jurisdictions",
+    "data": [
+      {
+        "Year": 2012,
+        "Average": 474.78
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Serbia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 439.88
+      },
+      {
+        "Year": 2018,
+        "Average": 448.28
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Singapore",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 574.66
+      },
+      {
+        "Year": 2018,
+        "Average": 569.01
+      },
+      {
+        "Year": 2015,
+        "Average": 564.19
+      },
+      {
+        "Year": 2012,
+        "Average": 573.47
+      },
+      {
+        "Year": 2012,
+        "Average": 562.02
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Slovak Republic",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 463.99
+      },
+      {
+        "Year": 2018,
+        "Average": 486.16
+      },
+      {
+        "Year": 2015,
+        "Average": 475.23
+      },
+      {
+        "Year": 2012,
+        "Average": 481.64
+      },
+      {
+        "Year": 2012,
+        "Average": 496.68
+      },
+      {
+        "Year": 2006,
+        "Average": 492.11
+      },
+      {
+        "Year": 2003,
+        "Average": 498.18
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Slovenia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 484.53
+      },
+      {
+        "Year": 2018,
+        "Average": 508.9
+      },
+      {
+        "Year": 2015,
+        "Average": 509.92
+      },
+      {
+        "Year": 2012,
+        "Average": 501.13
+      },
+      {
+        "Year": 2012,
+        "Average": 501.47
+      },
+      {
+        "Year": 2006,
+        "Average": 504.46
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 473.14
+      },
+      {
+        "Year": 2018,
+        "Average": 481.39
+      },
+      {
+        "Year": 2015,
+        "Average": 485.84
+      },
+      {
+        "Year": 2012,
+        "Average": 484.32
+      },
+      {
+        "Year": 2012,
+        "Average": 483.49
+      },
+      {
+        "Year": 2006,
+        "Average": 479.96
+      },
+      {
+        "Year": 2003,
+        "Average": 485.11
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Andalusia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 467.41
+      },
+      {
+        "Year": 2015,
+        "Average": 465.84
+      },
+      {
+        "Year": 2012,
+        "Average": 472.02
+      },
+      {
+        "Year": 2012,
+        "Average": 461.71
+      },
+      {
+        "Year": 2006,
+        "Average": 462.72
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Aragon",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 496.71
+      },
+      {
+        "Year": 2015,
+        "Average": 500.33
+      },
+      {
+        "Year": 2012,
+        "Average": 496.27
+      },
+      {
+        "Year": 2012,
+        "Average": 505.6
+      },
+      {
+        "Year": 2006,
+        "Average": 512.65
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Asturias",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 490.65
+      },
+      {
+        "Year": 2015,
+        "Average": 491.51
+      },
+      {
+        "Year": 2012,
+        "Average": 499.6
+      },
+      {
+        "Year": 2012,
+        "Average": 493.59
+      },
+      {
+        "Year": 2006,
+        "Average": 497.31
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Balearic Islands",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 482.54
+      },
+      {
+        "Year": 2015,
+        "Average": 476.41
+      },
+      {
+        "Year": 2012,
+        "Average": 475.05
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Basque Country",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 499.22
+      },
+      {
+        "Year": 2015,
+        "Average": 470.28
+      },
+      {
+        "Year": 2012,
+        "Average": 462.35
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Canary Islands",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 460.41
+      },
+      {
+        "Year": 2015,
+        "Average": 491.65
+      },
+      {
+        "Year": 2012,
+        "Average": 505.39
+      },
+      {
+        "Year": 2012,
+        "Average": 509.66
+      },
+      {
+        "Year": 2006,
+        "Average": 501.09
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Cantabria",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 498.8
+      },
+      {
+        "Year": 2015,
+        "Average": 452.1
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Castile and Leon",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 502.4
+      },
+      {
+        "Year": 2015,
+        "Average": 494.88
+      },
+      {
+        "Year": 2012,
+        "Average": 491.39
+      },
+      {
+        "Year": 2012,
+        "Average": 494.66
+      },
+      {
+        "Year": 2006,
+        "Average": 501.51
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Castile-La Mancha",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 478.86
+      },
+      {
+        "Year": 2015,
+        "Average": 506.38
+      },
+      {
+        "Year": 2012,
+        "Average": 508.79
+      },
+      {
+        "Year": 2012,
+        "Average": 514.33
+      },
+      {
+        "Year": 2006,
+        "Average": 515.14
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Catalonia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 489.83
+      },
+      {
+        "Year": 2015,
+        "Average": 486.02
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Comunidad Valenciana",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 473.49
+      },
+      {
+        "Year": 2015,
+        "Average": 518.05
+      },
+      {
+        "Year": 2012,
+        "Average": 516.68
+      },
+      {
+        "Year": 2012,
+        "Average": 511.24
+      },
+      {
+        "Year": 2006,
+        "Average": 515.03
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Extremadura",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 469.55
+      },
+      {
+        "Year": 2015,
+        "Average": 499.76
+      },
+      {
+        "Year": 2012,
+        "Average": 492.89
+      },
+      {
+        "Year": 2012,
+        "Average": 495.65
+      },
+      {
+        "Year": 2006,
+        "Average": 487.72
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Galicia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 498.22
+      },
+      {
+        "Year": 2015,
+        "Average": 485.11
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: La Rioja",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 497.43
+      },
+      {
+        "Year": 2015,
+        "Average": 473.23
+      },
+      {
+        "Year": 2012,
+        "Average": 461.37
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Madrid",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 485.81
+      },
+      {
+        "Year": 2015,
+        "Average": 493.87
+      },
+      {
+        "Year": 2012,
+        "Average": 488.6
+      },
+      {
+        "Year": 2012,
+        "Average": 489.18
+      },
+      {
+        "Year": 2006,
+        "Average": 493.88
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Murcia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 473.55
+      },
+      {
+        "Year": 2015,
+        "Average": 504.65
+      },
+      {
+        "Year": 2012,
+        "Average": 503.05
+      },
+      {
+        "Year": 2012,
+        "Average": 503.55
+      },
+      {
+        "Year": 2006,
+        "Average": 525.98
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Spain: Navarre",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 502.71
+      },
+      {
+        "Year": 2015,
+        "Average": 503.28
+      },
+      {
+        "Year": 2012,
+        "Average": 503.8
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Sweden",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 481.77
+      },
+      {
+        "Year": 2018,
+        "Average": 502.39
+      },
+      {
+        "Year": 2015,
+        "Average": 493.92
+      },
+      {
+        "Year": 2012,
+        "Average": 478.26
+      },
+      {
+        "Year": 2012,
+        "Average": 494.24
+      },
+      {
+        "Year": 2006,
+        "Average": 502.36
+      },
+      {
+        "Year": 2003,
+        "Average": 509.05
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Switzerland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 507.99
+      },
+      {
+        "Year": 2018,
+        "Average": 515.31
+      },
+      {
+        "Year": 2015,
+        "Average": 521.25
+      },
+      {
+        "Year": 2012,
+        "Average": 530.93
+      },
+      {
+        "Year": 2012,
+        "Average": 533.96
+      },
+      {
+        "Year": 2006,
+        "Average": 529.66
+      },
+      {
+        "Year": 2003,
+        "Average": 526.55
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Thailand",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 393.95
+      },
+      {
+        "Year": 2018,
+        "Average": 418.56
+      },
+      {
+        "Year": 2015,
+        "Average": 415.46
+      },
+      {
+        "Year": 2012,
+        "Average": 426.74
+      },
+      {
+        "Year": 2012,
+        "Average": 418.58
+      },
+      {
+        "Year": 2006,
+        "Average": 417.07
+      },
+      {
+        "Year": 2003,
+        "Average": 416.98
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Trinidad and Tobago",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 417.24
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": 414.04
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Tunisia",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 366.82
+      },
+      {
+        "Year": 2012,
+        "Average": 387.82
+      },
+      {
+        "Year": 2012,
+        "Average": 371.48
+      },
+      {
+        "Year": 2006,
+        "Average": 365.48
+      },
+      {
+        "Year": 2003,
+        "Average": 358.73
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "T\u00fcrkiye",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 453.15
+      },
+      {
+        "Year": 2018,
+        "Average": 453.51
+      },
+      {
+        "Year": 2015,
+        "Average": 420.45
+      },
+      {
+        "Year": 2012,
+        "Average": 447.98
+      },
+      {
+        "Year": 2012,
+        "Average": 445.45
+      },
+      {
+        "Year": 2006,
+        "Average": 423.94
+      },
+      {
+        "Year": 2003,
+        "Average": 423.42
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Ukraine",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": 453.12
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Ukraine (18 of 27 Regions)",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 440.85
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Arab Emirates",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 431.11
+      },
+      {
+        "Year": 2018,
+        "Average": 434.95
+      },
+      {
+        "Year": 2015,
+        "Average": 427.48
+      },
+      {
+        "Year": 2012,
+        "Average": 434.01
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Arab Emirates: Abu Dhabi",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 411.55
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 412.73
+      },
+      {
+        "Year": 2012,
+        "Average": 421.33
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Arab Emirates: Dubai",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 481.31
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 467.33
+      },
+      {
+        "Year": 2012,
+        "Average": 463.75
+      },
+      {
+        "Year": 2012,
+        "Average": 452.53
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Arab Emirates: Sharjah",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 427.84
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Kingdom",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 488.98
+      },
+      {
+        "Year": 2018,
+        "Average": 501.77
+      },
+      {
+        "Year": 2015,
+        "Average": 492.48
+      },
+      {
+        "Year": 2012,
+        "Average": 493.93
+      },
+      {
+        "Year": 2012,
+        "Average": 492.41
+      },
+      {
+        "Year": 2006,
+        "Average": 495.44
+      },
+      {
+        "Year": 2003,
+        "Average": 508.26
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United Kingdom: Scotland",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 470.62
+      },
+      {
+        "Year": 2018,
+        "Average": 488.94
+      },
+      {
+        "Year": 2015,
+        "Average": 491.16
+      },
+      {
+        "Year": 2012,
+        "Average": 498.44
+      },
+      {
+        "Year": 2012,
+        "Average": 499.02
+      },
+      {
+        "Year": 2006,
+        "Average": 505.71
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United States",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 464.89
+      },
+      {
+        "Year": 2018,
+        "Average": 478.24
+      },
+      {
+        "Year": 2015,
+        "Average": 469.63
+      },
+      {
+        "Year": 2012,
+        "Average": 481.37
+      },
+      {
+        "Year": 2012,
+        "Average": 487.4
+      },
+      {
+        "Year": 2006,
+        "Average": 474.35
+      },
+      {
+        "Year": 2003,
+        "Average": 482.88
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United States: Massachusetts",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 500.12
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United States: North Carolina",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 470.88
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "United States: Puerto Rico",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": null
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 378.35
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Uruguay",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 408.71
+      },
+      {
+        "Year": 2018,
+        "Average": 417.66
+      },
+      {
+        "Year": 2015,
+        "Average": 417.99
+      },
+      {
+        "Year": 2012,
+        "Average": 409.29
+      },
+      {
+        "Year": 2012,
+        "Average": 426.72
+      },
+      {
+        "Year": 2006,
+        "Average": 426.8
+      },
+      {
+        "Year": 2003,
+        "Average": 422.2
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Uzbekistan",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 363.94
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  },
+  {
+    "Jurisdiction": "Viet Nam",
+    "data": [
+      {
+        "Year": 2022,
+        "Average": 469.4
+      },
+      {
+        "Year": 2018,
+        "Average": null
+      },
+      {
+        "Year": 2015,
+        "Average": 494.52
+      },
+      {
+        "Year": 2012,
+        "Average": 511.34
+      },
+      {
+        "Year": 2012,
+        "Average": null
+      },
+      {
+        "Year": 2006,
+        "Average": null
+      },
+      {
+        "Year": 2003,
+        "Average": null
+      }
+    ]
+  }
+]
