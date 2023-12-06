@@ -1,0 +1,1 @@
+html,body{font-family:Open Sans,sans-serif;height:100%;margin:0}#base{display:flex;flex-direction:column;min-height:100%}main{margin:8px;flex:1}footer{display:flex;justify-content:center;align-items:center;flex-direction:column;background-color:#f5f5f5;padding:1rem}footer a{text-decoration:none}#controls>*{margin-bottom:8px;display:block}
