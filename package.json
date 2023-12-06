@@ -10,12 +10,14 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "randomcolor": "^0.6.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-select": "^5.8.0",
     "recharts": "^2.10.3"
   },
   "devDependencies": {
+    "@types/randomcolor": "^0.5.9",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
     "@typescript-eslint/eslint-plugin": "^6.10.0",
